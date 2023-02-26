@@ -8,3 +8,16 @@ Se debe respetar e integrar la estructura de directorios creados en orden de __a
 
 # Recomendación
 Utilizar la opción RAW de las imagenes para integrarlas en la wiki.
+
+
+
+# Estructura
+
+~~~
+make proyect
+make install
+~~~
+
+
+* LISTA 1
+* LISTA 2
